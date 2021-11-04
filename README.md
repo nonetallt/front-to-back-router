@@ -1,6 +1,8 @@
-# laravel-js-routes (DEPRECATED)
+## DEPRECATION NOTICE
 
 **This package has been deprecated**. Please use the [route-repository](https://github.com/nonetallt/route-repository) package instead. The new package was first ment to be a version 3 release of this package, but the name was changed to something more descriptive as the new codebase moved away from tight coupling with laravel principles.
+
+# laravel-js-routes
 
 A simple front to back router package for JavaScript. Useful for users of dynamic JavaScript frameworks like Vue.js or React who are using ajax calls. The routes can be added manually or generated automatically for a given [resource](https://laravel.com/docs/5.5/controllers#resource-controllers) (e.g. photos).
 
